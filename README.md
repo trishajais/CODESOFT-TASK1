@@ -82,6 +82,3 @@ Each model's performance is compared to find the best fit.
 
 This project is for educational purposes and free to use or modify.
 
----
-
-Would you like this as a downloadable `README.md` file too?
